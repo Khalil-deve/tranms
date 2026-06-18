@@ -72,4 +72,4 @@ Stores customer reservation requests.
 * `status` (Enum: 'pending', 'accepted', 'declined')
 
 ## 8. Conclusion
-The TranMS project successfully modernizes transport booking by providing a two-sided marketplace. With its clean UI, responsive design, and robust backend logic, the system effectively eliminates the friction of traditional booking methods. Future iterations can easily build upon this foundation to introduce features like payment gateway integration, real-time GPS tracking, and advanced MVC routing.
+The TranMS project successfully modernizes transport booking by providing a two-sided marketplace. With its clean UI, responsive design, and robust backend logic, the system effectively eliminates the friction of traditional booking methods.
